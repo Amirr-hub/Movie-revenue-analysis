@@ -1,2 +1,3 @@
-# Movie-revenue-analysis
-In this project, I sourced, cleaned, and analyzed movie industry data from 1980 to 2020 to uncover trends in revenue performance. Using Excel, I conducted multiple analyses to explore how movie scores, ratings, and genres relate to gross-to-budget ratios. 
+Movie-revenue-analysis
+In this project, I sourced, cleaned, and analyzed movie industry data from 1980 to 2020 to uncover trends in revenue performance. Using Excel, I conducted multiple analyses to explore how movie scores, ratings, and genres relate to gross-to-budget ratios. I created visualizations to highlight key findings, such as the consistent upward trend in inflation-adjusted revenues and the strong financial performance of specific genres like family and horror. The analysis provides actionable insights into which types of films are more likely to deliver high returns on investment, offering strategic value to media and entertainment decision-makers.
+<img width="1258" alt="Chart" src="https://github.com/user-attachments/assets/8538b72e-59bb-45e4-8850-c4b6fa0ac6bb" />
