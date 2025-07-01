@@ -25,5 +25,5 @@ These findings offer strategic insights into what types of films tend to perform
 <img width="1258" alt="Chart" src="https://github.com/user-attachments/assets/8538b72e-59bb-45e4-8850-c4b6fa0ac6bb" />
 
 ## 📬 Contact
-Connect with me on [LinkedIn](www.linkedin.com/in/amirrah).
+Connect with me on LinkedIn: www.linkedin.com/in/amirrah 
 
